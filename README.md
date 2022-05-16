@@ -24,13 +24,13 @@ The reason I am particularly interested in emotions because I heard ome people s
 
 
 ## Models
-CountVectorizer and LogisticRegression     0.959    0.903
-CountVectorizer and RandomForestClassifie  0.996    0.896
-TfidfVectorizer and  LogisticRegression    0.963    0.910
-TfidfVectorizer and RandomForestClassifier 0,996    0,890
-CountVectorizer and MultinomialNB          0.925    0.896
-TfidfVectorizer and MultinomialNB          0.938    0.902
-CountVectorizer and Keras                  0.993    0.894
+- CountVectorizer and LogisticRegression     0.959    0.903
+- CountVectorizer and RandomForestClassifie  0.996    0.896
+- TfidfVectorizer and  LogisticRegression    0.963    0.910
+- TfidfVectorizer and RandomForestClassifier 0,996    0,890
+- CountVectorizer and MultinomialNB          0.925    0.896
+- TfidfVectorizer and MultinomialNB          0.938    0.902
+- CountVectorizer and Keras                  0.993    0.894
 
 ### TfidfVectorizer and  LogisticRegression will be chosen as good model to work on future APP
 
